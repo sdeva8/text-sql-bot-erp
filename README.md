@@ -1,3 +1,13 @@
+
+To Start the Code:-
+
+1. Inside the Server run "python3 app.py"
+2. Inside the Fronted run  "npm start"
+
+   Thats it...
+
+Demo of the Project:- https://www.youtube.com/watch?v=6k5q9sK2GSo
+
 Introduction to Text-to-SQL Model for Spider Dataset
 
 Welcome to the Text-to-SQL model repository designed for the Spider dataset! This project represents an innovative approach to natural language interfaces for relational databases, specifically tailored to the challenges posed by the Spider dataset. The Spider dataset is a widely recognized benchmark in the field of natural language to SQL translation, containing complex and diverse queries that require sophisticated understanding of both natural language and relational database structures.
@@ -19,9 +29,3 @@ Community Contributions: We welcome contributions from the community, whether it
 Embark on a journey to enhance the capabilities of natural language interfaces to databases with our Text-to-SQL model for the Spider dataset. Let's push the boundaries of what's possible in bridging the gap between human language and database queries. Happy coding!
 
 
-To Start the Code:-
-
-1. Inside the Server run "python3 app.py"
-2. Inside the Fronted run  "npm start"
-
-   Thats it....
